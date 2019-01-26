@@ -4,6 +4,6 @@
 __pycache__/
 local_settings.py
 /media
-.venv
+.venv/*
 .vscode
 /static
