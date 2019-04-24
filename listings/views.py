@@ -48,7 +48,7 @@ def search(request):
         if state:
             queryset_list = queryset_list.filter(state__iexact=state)
 
-    # Becrooms
+    # Bedrooms
     if 'bedrooms' in request.GET:
         bedrooms = request.GET['bedrooms']
         if bedrooms:

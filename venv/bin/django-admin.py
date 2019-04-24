@@ -1,4 +1,4 @@
-#!/home/antu/Documents/Code/django-real-estate-site/venv/bin/python3
+#!/home/antu/Documents/Code/django-real-estate-site/venv/bin/python
 from django.core import management
 
 if __name__ == "__main__":
