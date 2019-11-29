@@ -1,5 +1,5 @@
 # Django-real-estate
-#A real estate application using django
+# A real estate application using django
 
 ## How to run this project
 
